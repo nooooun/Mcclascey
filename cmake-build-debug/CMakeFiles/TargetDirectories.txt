@@ -1,0 +1,3 @@
+D:/CLionProjects/SDNF/cmake-build-debug/CMakeFiles/SDNF.dir
+D:/CLionProjects/SDNF/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/SDNF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
